@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SashaSingh2000
 - 👀 I’m interested in software engineering, Big Data, and Artifical Intelligence
 - 🌱 I’m currently a sophomore at the University of Utah studying Computer Science, Entrepreneurship, and Psychology
-- 💞️ I’m looking to create apps in the sports, beauty, and tech feilds. 
+- 💞️ I’m looking to create apps in the sports, beauty, and tech fields. 
 - 📫 How to reach me: singh.sasha00@gmail.com
 
 <!---
